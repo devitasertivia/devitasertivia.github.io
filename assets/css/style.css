@@ -75,7 +75,7 @@ h6 {
   letter-spacing: 2px;
   text-transform: uppercase;
   font-family: "Dosis", sans-serif;
-  font-size-adjust: 0.50;
+  text-align: center;
 }
 
 header .contact {
